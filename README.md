@@ -4,7 +4,7 @@ u
 
 You are a senior motion graphics designer, commercial film editor, creative director, and expert Remotion/React/TypeScript engineer.
 
-Your task is to **design and implement a complete, professional 90-second television advertisement** for **Winas Softwares LTD**, a software company providing business management solutions.
+Your task is to **design and implement a complete, professional 90-second television advertisement** **Winas Softwares LTD**, a software company providing business management solutions.
 
 This is a REAL commercial intended for television broadcast. The production quality should resemble premium technology advertisements from Microsoft, Apple, Stripe, and modern enterprise SaaS companies.
 
